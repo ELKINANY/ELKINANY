@@ -23,30 +23,47 @@
 - 🌱 Love sharing knowledge and constantly sharpening my skills by building and refactoring projects.
 - ✅ Completed multiple real-world projects, especially CRUD APIs.
 
-### 🛠️ Tech Stack
+---
 
-![HTML](https://img.shields.io/badge/html-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?&style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?&style=flat-square&logo=mongoose&logoColor=white)
-![TypeORM](https://img.shields.io/badge/typeorm-%23CB3837.svg?&style=flat-square)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?&style=flat-square&logo=postman&logoColor=white)
+## 🧰 Frameworks and Libraries
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
-### 🌟 Notable Project
+## 📝 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🗄️ Databases and ORM
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-CB3837?style=for-the-badge)
+
+---
+
+## 🛠️ Tools
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🌟 Notable Project
 
 - [**E-Commerce_API**](https://github.com/ELKINANY/E-Commerce_API)  
   <sub>Built with Express.js & MongoDB | Robust RESTful API for e-commerce platforms</sub>
 
 ---
 
-### 🧩 What Sets Me Apart
+## 🧩 What Sets Me Apart
 
 - Focused on **scalable** and **clean backend architectures**
 - Passionate about **modern frameworks** (learning NestJS!)
@@ -56,12 +73,15 @@
 ---
 
 ## 📫 How to reach me
+
 - 📧 Email: [mohamedelkinany888@gmail.com](mailto:mohamedelkinany888@gmail.com)  
 - 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/mohamed-elkinany-3659b5281)  
 - 🐙 GitHub: [GitHub](https://github.com/ELKINANY)
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ELKINANY&show_icons=true&theme=react" alt="ELKINANY's GitHub stats"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ELKINANY&show_icons=true&theme=react" alt="ELKINANY's GitHub stats" width="40%" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELKINANY&layout=compact&theme=react" alt="Top Languages" width="40%" height="180" align="right"/>
 </p>
+
