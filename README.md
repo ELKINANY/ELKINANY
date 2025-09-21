@@ -55,11 +55,10 @@
 
 ---
 
-### 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/mohamed-elkinany-3659b5281/)
-- [Facebook](https://www.facebook.com/mohamed.elkinany.3910/)
-- [Email](mohamedelkinany888@gmail.com)
+## 📫 How to reach me
+- 📧 Email: [mohamedelkinany888@gmail.com](mailto:mohamedelkinany888@gmail.com)  
+- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/mohamed-elkinany-3659b5281)  
+- 🐙 GitHub: [GitHub](https://github.com/ELKINANY)
 
 ---
 
