@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi, I'm Mohamed Elkinany 👋</h1>
-<h3 align="center">Backend Developer | Clean Code Advocate | API Specialist</h3>
+<h3 align="center">Backend Developer | Clean Code Advocate</h3>
 
 ---
 
