@@ -51,13 +51,15 @@
 - Focused on **scalable** and **clean backend architectures**
 - Passionate about **modern frameworks** (learning NestJS!)
 - Always optimizing **PostgreSQL** queries for performance
-- Enjoy teaching, collaborating, and growing with the dev community
+- Enjoy learning, collaborating, and growing with the dev community
 
 ---
 
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-elkinany-3659b5281/)
+- [Facebook](https://www.facebook.com/mohamed.elkinany.3910/)
+- [Email](mohamedelkinany888@gmail.com)
 
 ---
 
