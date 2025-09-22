@@ -15,13 +15,15 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  
 
-- 🧑‍💻 **Backend Developer** passionate about building scalable and clean architectures for real-world applications.
-- 🔥 Skilled in **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and more.
-- 💡 Always learning—currently diving into **NestJS** and advanced PostgreSQL performance.
-- 🌱 Love sharing knowledge and constantly sharpening my skills by building and refactoring projects.
-- ✅ Completed multiple real-world projects, especially CRUD APIs.
+- 🧑‍💻 **Backend Developer** passionate about building scalable and clean architectures for real-world applications.  
+- 🔥 Skilled in **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, and more.  
+- 💡 Always learning—currently diving into **NestJS** and advanced PostgreSQL performance.  
+- 🌱 Planning to learn **React** and **Next.js** in the future to grow into a full-stack developer.  
+- 🛠️ Love sharing knowledge and constantly sharpening my skills by building and refactoring projects.  
+- ✅ Completed multiple real-world projects, especially CRUD APIs.  
+
 
 ---
 
