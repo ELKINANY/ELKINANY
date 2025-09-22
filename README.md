@@ -7,14 +7,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-elkinany-3659b5281/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
-
----
-
 ### 🚀 About Me  
 
 - 🧑‍💻 **Backend Developer** passionate about building scalable and clean architectures for real-world applications.  
