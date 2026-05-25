@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mohamed Elkinany 👋</h1>
-<h3 align="center">Full-Stack MERN Developer | Backend-Focused</h3>
+<h3 align="center">Full-Stack MERN Developer</h3>
 
 ---
 
